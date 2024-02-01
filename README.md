@@ -1,3 +1,20 @@
+
+<h1 align="center">Exercise Finder</h1>
+
+<p align="center"><font size="4">An app that helps find and learn about exercises</font></p>
+
+<img src="gym_exercises_photos/Exercise_Banner.png">
+
+<h2 align="center">Screenshots</h2>
+
+<img src="gym_exercises_photos\Exercise_HomePage.png"/>
+<img src="gym_exercises_photos\Exercise_SearchBar.png"/>
+<img src="gym_exercises_photos\Exercise_Selections.png"/>
+<img src="gym_exercises_photos\Exercise_Details.png"/>
+<img src="gym_exercises_photos\Exercise_Help.png"/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,22 +85,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-***
-
-<h1 align="center">Exercise Finder</h1>
-
-<p align="center"><font size="4">An app that helps find and learn about exercises</font></p>
-
-<img src="gym_exercises_photos/Exercise_Banner.png">
-
-<h2 align="center">Screenshots</h2>
-
-<img src="gym_exercises_photos\Exercise_HomePage.png"/>
-<img src="gym_exercises_photos\Exercise_SearchBar.png"/>
-<img src="gym_exercises_photos\Exercise_Selections.png"/>
-<img src="gym_exercises_photos\Exercise_Details.png"/>
-<img src="gym_exercises_photos\Exercise_Help.png"/>
-
-
